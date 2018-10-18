@@ -1,12 +1,6 @@
-/*
-** my_put_nbr.c for my_put.nbr.c in /home/demi/smajov_d/Jour05/smajov_d/my_put_nbr
-** 
-** Made by SMAJOVIC Demirel
-** Login   <smajov_d@etna-alternance.net>
-** 
-** Started on  Mon Sep 26 14:58:35 2016 SMAJOVIC Demirel
-** Last update Sat Oct  1 13:03:46 2016 SMAJOVIC Demirel
-*/
+##
+## Created By AIS3N
+##
 
 void	my_putchar(char c);
 
