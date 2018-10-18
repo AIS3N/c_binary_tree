@@ -1,11 +1,5 @@
 ##
-## Makefile for Makefile in /home/demirel/Documents/smajov_d
-##
-## Made by SMAJOVIC Demirel
-## Login   <smajov_d@etna-alternance.net>
-##
-## Started on  Tue May  2 19:39:14 2017 SMAJOVIC Demirel
-## Last update Wed May  3 10:50:48 2017 SMAJOVIC Demirel
+## Created By AIS3N
 ##
 
 FILES = lib/my_putchar.c \
