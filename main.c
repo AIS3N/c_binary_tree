@@ -1,12 +1,6 @@
-/*
-** main.c for main.c in /home/demirel/smajov_d
-** 
-** Made by SMAJOVIC Demirel
-** Login   <smajov_d@etna-alternance.net>
-** 
-** Started on  Tue May  23 10:20:48 2017 SMAJOVIC Demirel
-** Last update Wed May  23 08:16:16 2017 SMAJOVIC Demirel
-*/
+##
+## Created By AIS3N
+##
 
 #include <stdlib.h>
 #include "binary_tree.h"
